@@ -1,0 +1,49 @@
+body{
+    background-color: darkblue;
+}
+.container{
+    background-color: wheat;
+    width: 80%;
+    max-width: 1000px;
+    padding: 20px;
+    margin-left: 150px;
+    height: 80%;
+    max-height: 1000px;
+}
+.header{
+background-color: burlywood;
+height: 30px;
+padding-top: 10px;
+padding-bottom: 60px;
+padding-left: 10px;
+margin: 20px;
+
+}
+.content{
+    overflow: hidden;
+    margin-top: 20px;
+}
+.main-section{
+    background-color: burlywood;
+    width: 42%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+}
+h2{
+    text-align: center;
+}
+.side-section{
+    background-color: burlywood;
+    width: 42%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+}
+.footer{
+    background-color: burlywood;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 10px;
+    padding: 15px;
+}
